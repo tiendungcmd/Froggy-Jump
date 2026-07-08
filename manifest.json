@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "title": "Ếch Nhảy Qua Giếng",
+  "description": "Game ếch nhảy qua giếng, hỗ trợ Facebook Instant Games và web.",
+  "orientation": "landscape",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "icon-192x192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
